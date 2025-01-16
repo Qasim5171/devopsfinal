@@ -5,4 +5,4 @@ Created git repo
 
 cloned it:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/785f470a-c606-4b25-a58d-eb21040d7514)
