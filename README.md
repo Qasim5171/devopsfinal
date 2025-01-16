@@ -48,6 +48,14 @@ pushing image:
 ![image](https://github.com/user-attachments/assets/1bb577ca-ca68-4985-a733-5f45ed397196)
 
 
+application :
+
+![image](https://github.com/user-attachments/assets/2d6e88d0-36ac-4f4b-9ba4-f7372155c111)
+
+the application didnt run due to some problem in my flask code 
+
+
+
 
 
 
